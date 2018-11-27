@@ -8,3 +8,5 @@ Iterations:
 - Link to About Me
 - Fun About Me Section
 - Contact Me
+
+Heavily influenced by: http://seanhalpin.io/
