@@ -138,3 +138,11 @@ body {
   font-family: "Bradley Hand", cursive;
   font-weight: 400;
 }
+
+.hello-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  height: 25%;
+}
